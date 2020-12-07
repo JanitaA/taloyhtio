@@ -1,4 +1,24 @@
-Maalin perustiedot ovat seuraavat:
--	maalin nimi – pakollinen
--	maalin hinta (euroa/l) - pakollinen
--	maalin riittoisuus (m2/l) – pakollinen
+[
+    {
+        "name": "Remontti-ässä",
+        "info":[
+            {"prize": "22,95€/l", "abundance": "12m2/l" }
+        ],
+        "description": [
+            "Puolihimmeä, vesiohenteinen maali, joka soveltuu monenlaisten sisäpintojen maalaukseen. Kestää toistuvaa pesua ja sopii siksi mm. keittiöihin ja eteisiin.",
+            "Voit maalata betoni-, rappaus-, tiili-, tasoite- ja lastulevypintoja.",
+            "Väri: valkoinen, sävytettävissä vaaleisiin sävyihin."
+        ]
+    },
+    {
+        "name": "Harmony sisustusmaali",
+        "info":[
+            {"prize": "27,72/l", "abundance": "12m2/l"}
+        ],
+        "description":[
+            "Täyshimmeä sisustusmaali, joka soveltuu sisäseinien ja -kattojen maalaukseen.",
+            "Sopii mm. betoni-, rappaus-, tiili-, tasoite- ja puupinnoille.",
+            "Väri: sävytetään tummiin sävyihin (ei voida käyttää ilman sävytystä)."
+        ]
+    }
+]
