@@ -1,5 +1,5 @@
 import React from 'react';
-import './DottedBox.css';
+import "./index.css";
 
 const DottedBox = () => (
   <div className="DottedBox">
@@ -8,13 +8,3 @@ const DottedBox = () => (
 );
 
 export default DottedBox;
-
-.DottedBox {
-    margin: 40px;
-    border: 5px dotted green;
-  }
-  
-  .DottedBox_content {
-    font-size: 15px;
-    text-align: center;
-  }
