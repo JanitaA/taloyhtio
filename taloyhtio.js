@@ -1,6 +1,6 @@
 import React from "react";
 
-const tilanperustiedot = ({ name, apartmentinfo, area}) => {
+const Tilanperustiedot = ({ name, apartmentinfo, area}) => {
     return (
         <li>
             {name} {apartmentinfo} {area}
@@ -8,4 +8,4 @@ const tilanperustiedot = ({ name, apartmentinfo, area}) => {
     );
 }
 
-export default tilanperustiedot
+export default Tilanperustiedot
