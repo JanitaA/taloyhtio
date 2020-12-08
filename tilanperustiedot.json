@@ -1,0 +1,15 @@
+[
+    {
+        "name":"kolmio",
+        "apartmentinfo": [
+            {"area": "73m2"}
+
+        ]
+    },
+    {
+        "name": "kaksio",
+        "apartmentinfo": [
+            { "area": "50m2" }
+        ]
+    }
+]
