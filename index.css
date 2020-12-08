@@ -7,3 +7,13 @@
     font-size: 15px;
     text-align: center;
   }
+
+  .input__question {
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-family: sans-serif;
+  }
+  
