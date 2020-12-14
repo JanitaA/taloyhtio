@@ -1,3 +1,14 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  background-color: beige;
+
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
 .DottedBox {
     margin: 40px;
     border: 5px dotted green;
