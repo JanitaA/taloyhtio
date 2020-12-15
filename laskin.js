@@ -1,4 +1,4 @@
-(function {
+(function() {
 var gallonsOfPaint = 0;
   var squareFeet = 0;
   var conversionRate = 350;
