@@ -1,7 +1,6 @@
-(function() {
+(function {
 var gallonsOfPaint = 0;
   var squareFeet = 0;
-  // Paste source here
   var conversionRate = 350;
 
   function convertSquareFeetToGallons(squareFeet) {
